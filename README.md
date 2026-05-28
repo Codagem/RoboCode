@@ -1,4 +1,4 @@
-<h1 align="center"><img width="400" alt="ChatGPT Image 27 de mai  de 2026, 20_17_47" src="https://github.com/user-attachments/assets/b90645fe-f399-483a-bd82-e9f7e1303fca" /></h1>
+<h1 align="center"><img width="450" alt="ChatGPT Image 27 de mai  de 2026, 20_17_47" src="https://github.com/user-attachments/assets/b90645fe-f399-483a-bd82-e9f7e1303fca" /></h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-24-orange?style=for-the-badge&logo=openjdk&logoColor=white">
