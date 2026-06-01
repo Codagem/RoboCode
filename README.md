@@ -34,8 +34,26 @@
 <h2>🤖 Explicação dos 2 robôs</h2>
 
 <h3>🔵 Robô 1</h3>
+<p> O código deste robô foi feito usando o Robot padrão</p>
+<p align="center">
+<img width="460" alt="Captura de tela 2026-05-31 213324" src="https://github.com/user-attachments/assets/580aec31-91b1-4b1f-8e0f-57734cf172e7" />
+  
+<img width="400" alt="Captura de tela 2026-05-31 213009" src="https://github.com/user-attachments/assets/97be84c2-6a44-4a9f-aed2-e963c12dbcd1" />
+
+<hr>
 
 <h3>🔴 Robô 2</h3>
+<p> O código usado é de um Advanced Robot herdado de um Robot</p>
+<p align="center">
+<img width="440" alt="Captura de tela 2026-05-31 213458" src="https://github.com/user-attachments/assets/b23ae1e4-2a5d-4ccf-8f67-2033e929468c" />
+
+<img width="490" alt="Captura de tela 2026-05-31 213714" src="https://github.com/user-attachments/assets/9c65d33d-94c5-4434-9a5f-c7faad99bd59" />
+
+<hr>
+
+<h2>🧐 Estrategia utilizada nas batalhas simuladas</h2>
+
+
 
 <hr>
 
