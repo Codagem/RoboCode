@@ -12,22 +12,16 @@
 <p>Cada robô é desenvolvido em Java e executa ações com base no código criado pelo jogador.</p>
 
 <h3>•👨‍💻 Programação orientada a objetos</h3>
-<p>Cada robô é uma classe Java com comportamentos próprios. Através de métodos, atributos e eventos, é possível definir sua lógica dentro da arena.</p>
 
 <h3>•📡 Detecção e radar</h3>
-<p>Os robôs utilizam radar para localizar os adversários durante a partida. A leitura do ambiente permite identificar posições, distância e movimentação do inimigo.</p>
 
 <h3>•🚀 Movimentação estratégica</h3>
-<p>Além de atacar, o robô precisa se movimentar constantemente para desviar de tiros, mudar rotas e dificultar ser atingido.</p>
 
 <h3>•🔫 Ataque e combate</h3>
-<p>O sistema de batalha é baseado em disparos automáticos. O robô precisa calcular o melhor momento para atirar e ajustar sua mira conforme o movimento do adversário.</p>
 
 <h3>•🧠 Lógica e tomada de decisão</h3>
-<p>Durante o combate, decisões são tomadas em tempo real a partir do código desenvolvido, como atacar, recuar, escanear ou alterar a movimentação.</p>
 
 <h3>•📈 Testes e otimização</h3>
-<p>Após cada batalha, o comportamento do robô pode ser analisado e melhorado, permitindo ajustes contínuos na estratégia e no código.</p>
 
 <hr>
 
