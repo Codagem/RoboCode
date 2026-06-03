@@ -28,20 +28,21 @@
 <h2>🤖 Explicação dos 2 robôs</h2>
 
 <h3>🔵 Robô 1</h3>
-<p> O código deste robô foi feito usando o Robot padrão</p>
+<p> O código deste robô foi feito usando o TeamRobot para impedir que ele atinja o alidao</p>
 <p align="center">
-<img width="460" alt="Captura de tela 2026-05-31 213324" src="https://github.com/user-attachments/assets/580aec31-91b1-4b1f-8e0f-57734cf172e7" />
-  
-<img width="400" alt="Captura de tela 2026-05-31 213009" src="https://github.com/user-attachments/assets/97be84c2-6a44-4a9f-aed2-e963c12dbcd1" />
+<img width="600" alt="Captura de tela 2026-06-03 204612" src="https://github.com/user-attachments/assets/79af28be-07d7-4696-a089-81b94dd9990d" />
+
+<img width="600" alt="Captura de tela 2026-06-03 204828" src="https://github.com/user-attachments/assets/635a983b-f81a-4aee-94c8-ba9dbeda264b" />
 
 <hr>
 
 <h3>🔴 Robô 2</h3>
-<p> O código usado é de um Advanced Robot herdado de um Robot</p>
+<p> O código usado também é um TeamRobot para identificar o aliado com o isTeammate</p>
 <p align="center">
-<img width="440" alt="Captura de tela 2026-05-31 213458" src="https://github.com/user-attachments/assets/b23ae1e4-2a5d-4ccf-8f67-2033e929468c" />
+<img width="450" alt="Captura de tela 2026-06-03 205145" src="https://github.com/user-attachments/assets/6c453e3a-db64-4e60-935a-34dd3ee7c262" />
 
-<img width="490" alt="Captura de tela 2026-05-31 213714" src="https://github.com/user-attachments/assets/9c65d33d-94c5-4434-9a5f-c7faad99bd59" />
+<img width="500" alt="Captura de tela 2026-06-03 205354" src="https://github.com/user-attachments/assets/bf34df00-9ced-4421-8357-c8d04e623a91" />
+
 
 <hr>
 
@@ -53,8 +54,6 @@ Usa movimentação anti-gravidade para evitar ficar preso perto de inimigos e pa
 junto a um foco em precisão e sobrevivência em confrontos prolongados.</p>
 
 <p> Como ambos usam TeamRobot, eles reconhecem aliados, não atacam e trabalham juntos até eliminar a dupla adversária.</p>
-<p>Seus códigos foram originalmente pensados para situações com vários robôs na arena. Em um torneio 2x2, eles vão funcionar, mas não estão aproveitando totalmente o fato de serem uma equipe.</p>
-
 
 <hr>
 
