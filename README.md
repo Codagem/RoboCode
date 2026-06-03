@@ -46,7 +46,14 @@
 <hr>
 
 <h2>🧐 Estrategia utilizada nas batalhas simuladas</h2>
+<p> O <b>OmegaWorldBR</b> atua como robô de pressão e perseguição, escolhendo dinamicamente os alvos.
+Usa movimentação anti-gravidade para evitar ficar preso perto de inimigos e paredes e tenta sobreviver enquanto mantém pressão constante no adversário.</p>
 
+<p> Já o <b>OmegaWorldDuel</b> atua como especialista em combate direto, usando técnicas de previsão de movimento e Wave Surfing para desviar de tiros,
+junto a um foco em precisão e sobrevivência em confrontos prolongados.</p>
+
+<p> Como ambos usam TeamRobot, eles reconhecem aliados, não atacam e trabalham juntos até eliminar a dupla adversária.</p>
+<p>Seus códigos foram originalmente pensados para situações com vários robôs na arena. Em um torneio 2x2, eles vão funcionar, mas não estão aproveitando totalmente o fato de serem uma equipe.</p>
 
 
 <hr>
